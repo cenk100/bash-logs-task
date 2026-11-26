@@ -1,0 +1,5 @@
+key=value key=value retry disk_full
+timeout shutdown
+ipsum dolor Payload # comment cache_miss dolor
+Payload ipsum server Payload shutdown
+[ WARNING ]	04:05:2025 19385	timeout

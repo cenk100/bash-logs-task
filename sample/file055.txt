@@ -1,0 +1,3 @@
+server shutdown started ipsum started Payload disk_full
+ipsum cache_miss server retry Payload key=value key=value ok
+[ WARNING ]	17:02:2017 46119 Connection_lost

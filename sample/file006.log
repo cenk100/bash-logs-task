@@ -1,0 +1,10 @@
+[ INFO ] 12:05:2021 58947 msg_with_digits58947
+[ ERROR ] 2024-01-05 16901 started_cache_miss
+[ DEBUG ]	20:05:2026	30671 
+[ ERROR ]	25:05:2021	21241 queue_empty
+[ ERROR ] 18:02:2026 37363 queue_empty
+  [ DEBUG ] 07:03:2023 57340 Payload
+INFO: something happened at 15:12:2022
+[ DEBUG ] 23:08:2015 26422 queue_empty
+[ ERROR ] 2024-01-05 71176 shutdown
+[ INFO ] 22:11:2021 67251 user_login_shutdown

@@ -1,0 +1,15 @@
+[ WARNING ] 2024-01-05 71372 
+[ FATAL ] 27:06:2016 11703 disk_full
+ERROR: something happened at 22:11:2016
+[ WARNING ] 05:10:2019 abc disk_full_server
+ERROR: something happened at 10:08:2021
+[ INFO ] 18:11:2020	80017 
+[ ERROR ]	25:11:2026 96247 retry_request
+[ FATAL ] 10:05:2018 71776 
+
+[ INFO ] 02:07:2025 70795 msg_with_digits70795
+[ ERROR ] 02:06:2015 94504 started_timeout
+[ error ] 02:12:2017 88877 Connection_lost
+[ DEBUG ]	06:12:2020 57496 
+[ ERROR ] 15:07:2018 -20677 
+[ DEBUG ]	16:03:2017 7081 disk_full

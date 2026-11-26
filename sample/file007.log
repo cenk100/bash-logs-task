@@ -1,0 +1,15 @@
+[ DEBUG ] 08:11:2020 50181 shutdown
+[ WARNING ] 25:05:2026 -58188 Connection_lost
+[ DEBUG ] 08:08:2015 72616 
+[ INFO ] 05:11:2019 abc cache_miss_started
+[ WARNING ] 27:01:2016 84076 request
+[ FATAL ] 02:03:2022 65278 
+[ ERROR ]	10:08:2015 51543	timeout
+[ WARNING ]	20:11:2025	37453 started
+[ ERROR ] 05:06:2024 47964
+[ WARNING ]	27:01:2020 88317 shutdown_disk_full
+[ INFO ] 05:07:2026 78238 two words
+[ WARNING ] 09:09:2026 79963
+[ DEBUG ] 04:07:2020	13178 server
+ERROR: something happened at 11:05:2024
+[ DEBUG ] 08:01:2025 80079 two words

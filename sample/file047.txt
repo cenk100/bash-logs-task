@@ -1,0 +1,5 @@
+shutdown server timeout retry key=value
+shutdown Connection_lost retry request user_login retry retry request
+disk_full server dolor lorem request server retry cache_miss
+retry server
+[ WARNING ]	19:01:2022 61940 server_shutdown

@@ -1,0 +1,10 @@
+[ ERROR ] 2024-01-05 74455 cache_miss
+[ INFO ] 17:05:2021 26224	disk_full_shutdown
+[ DEBUG ] 21:12:2023 75608	timeout
+[ ERROR ] 17:04:2020	19365 user_login
+[ FATAL ] 08:02:2017 41766 timeout
+[ INFO ] 16:02:2018 41079 Payload_ok
+[ ERROR ] 01:11:2024 28574 msg_with_digits28574
+[ DEBUG ]	21:06:2025	4440 started
+[ WARNING ] 06:11:2022 -94029 
+[ WARNING ] 13:07:2024 2717 request_shutdown

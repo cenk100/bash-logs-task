@@ -1,0 +1,6 @@
+disk_full shutdown
+key=value Payload disk_full # comment
+started queue_empty disk_full queue_empty server
+key=value ipsum started user_login started cache_miss timeout request
+shutdown dolor
+[ WARNING ] 04:12:2024 91956 user_login_cache_miss

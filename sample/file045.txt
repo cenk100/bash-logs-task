@@ -1,0 +1,7 @@
+shutdown ipsum disk_full key=value timeout disk_full
+Payload queue_empty ipsum key=value
+queue_empty ok user_login cache_miss
+retry shutdown timeout disk_full ipsum timeout timeout
+server ipsum retry cache_miss
+dolor
+[ ERROR ] 09:02:2023 46455	user_login_ok

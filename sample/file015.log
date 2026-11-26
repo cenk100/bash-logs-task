@@ -1,0 +1,15 @@
+[ WARNING ]	28:12:2025 29878 disk_full
+[ ERROR ] 07:08:2018	97117	
+[ DEBUG ] 01:04:2020 8600 msg_with_digits8600
+[ INFO ] 07:08:2019 -89417 request
+[ ERROR ] 12:09:2019 86577 msg_with_digits86577
+[ ERROR ] 2024-01-05 15437 
+[ DEBUG ] 01:06:2023 2348 
+
+[ ERROR ]	04:09:2019	91995 Payload_request
+[ ERROR ] 22:09:2019 54896 
+[ INFO ]	07:10:2018 68569 retry
+[ ERROR ] 23:08:2020 358 started_queue_empty
+[ FATAL ] 04:03:2015 11807 disk_full
+[ INFO ] 24:04:2022 abc request_queue_empty
+[ DEBUG ]	28:08:2017 98491	retry

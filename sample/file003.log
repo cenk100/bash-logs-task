@@ -1,0 +1,5 @@
+[ INFO ] 23:03:2025	13446 shutdown
+[ DEBUG ] 09:08:2016 52521	shutdown_request
+[ DEBUG ] 03:04:2016	79471 queue_empty
+
+[WARNING] 04:08:2026 57560 disk_full

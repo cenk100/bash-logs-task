@@ -1,0 +1,3 @@
+server server ipsum shutdown disk_full
+started # comment key=value started request server user_login
+[ ERROR ] 27:07:2026 36002 

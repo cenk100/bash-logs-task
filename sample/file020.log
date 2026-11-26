@@ -1,0 +1,8 @@
+[ERROR] 17:11:2022 24886 cache_miss_user_login
+[ WARNING ] 11:09:2020 abc retry
+[ DEBUG ]	25:09:2026 47187	ok_server
+[ WARNING ] 17:03:2019 39365 retry_server
+[DEBUG] 02:08:2020 12358 user_login
+[ DEBUG ] 17:12:2018 6621	queue_empty_shutdown
+  [ DEBUG ] 11:11:2024 56614 started
+ERROR: something happened at 09:01:2022

@@ -1,0 +1,6 @@
+Connection_lost disk_full shutdown
+server dolor ok timeout user_login
+disk_full
+key=value timeout
+ok timeout dolor server
+[ ERROR ]	02:02:2019	63402 cache_miss_disk_full

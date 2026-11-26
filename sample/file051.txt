@@ -1,0 +1,5 @@
+lorem request disk_full
+cache_miss disk_full lorem # comment
+shutdown shutdown user_login shutdown
+# comment retry queue_empty lorem timeout disk_full key=value ipsum
+[ WARNING ] 15:06:2021	55116	

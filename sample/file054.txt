@@ -1,0 +1,6 @@
+lorem disk_full
+retry
+Connection_lost retry key=value
+dolor dolor shutdown shutdown
+dolor Payload
+[ WARNING ]	13:12:2016	54643	user_login

@@ -1,0 +1,13 @@
+[ DEBUG ]	06:03:2024 96458	retry
+[ WARNING ] 08:01:2025 67880 
+[ WARNING ] 23:09:2025 97243 
+[ ERROR ] 19:11:2016 49326 cache_miss
+[ ERROR ] 17:03:2022 30145 
+[ DEBUG ] 20:12:2016 54344 started_Connection_lost
+[ DEBUG ] 21:07:2015 5655 
+  [ INFO ] 11:08:2024 75008 shutdown
+[ INFO ] 05:05:2022 69655 two words
+[ ERROR ] 09:09:2021 80200 request
+[ERROR] 12:09:2023 23425 disk_full_queue_empty
+[ debug ] 07:01:2024 83924 
+  [ WARNING ] 08:05:2016 44560 ok

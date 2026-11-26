@@ -1,0 +1,4 @@
+# comment cache_miss
+lorem lorem
+request ok ok started dolor dolor
+[ INFO ] 14:02:2016	22431 ok_timeout

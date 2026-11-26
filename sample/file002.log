@@ -1,0 +1,11 @@
+[ WARNING ] 04:05:2017 5014 ok_retry
+[ ERROR ] 19:05:2021 abc cache_miss
+[ ERROR ] 08:03:2026 57905
+[ WARNING ] 18:02:2017 98992 msg_with_digits98992
+[ error ] 08:05:2021 70545 Connection_lost
+[ INFO ] 13:07:2026 98858 two words
+[ ERROR ]	04:07:2020	92708 user_login_Payload
+
+[ WARNING ]	18:09:2020	97771 retry
+[ DEBUG ] 24:04:2020 97370 timeout
+[ WARNING ] 27:04:2019 47301 server_Payload

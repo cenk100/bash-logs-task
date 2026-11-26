@@ -1,0 +1,13 @@
+[ WARNING ] 08:03:2026 88696 
+[ DEBUG ] 18:04:2026	28893	
+  [ WARNING ] 15:11:2020 36421 
+[ DEBUG ] 27:01:2018 41347	started_timeout
+
+[ DEBUG ] 28:11:2019 20032 user_login_cache_miss
+[ warning ] 08:10:2016 64042 
+[ warning ] 05:12:2024 9287 shutdown
+[ debug ] 13:01:2021 21798 disk_full
+[ WARNING ] 07:11:2026 31285 user_login_request
+[ WARNING ] 01:08:2024 9602 cache_miss
+[ FATAL ] 22:02:2017 48434 started_queue_empty
+WARNING: something happened at 25:05:2020
