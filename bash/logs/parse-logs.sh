@@ -47,7 +47,7 @@ elif [[ ! -d "$path" ]]; then
     exit 1
 fi
 
-format="^\[ (INFO|DEBUG|WARNING|ERROR) \]\s[0-3][0-9]:[01][0-9]:[0-9]{4}\s[0-9]+\s[a-zA-Z_]*$"
+format="^\[ (INFO|DEBUG|WARNING|ERROR) \]\s[0-3][0-9]:[01][0-9]:[0-9]{4}\s(0|[1-9][0-9]*)\s[a-zA-Z_]*$"
 
 grep -rhE --include='*.log' "$format" "$path" |\
 sort -nr -k 5,5 |\
