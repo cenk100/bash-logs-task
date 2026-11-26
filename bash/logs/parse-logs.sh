@@ -49,7 +49,7 @@ fi
 
 format="^\[ (INFO|DEBUG|WARNING|ERROR) \]\s[0-3][0-9]:[01][0-9]:[0-9]{4}\s[0-9]+\s[a-zA-Z_]*$"
 
-grep -hE "$format" "$path"/*.log |\
+grep -rhE --include='*.log' "$format" "$path" |\
 sort -nr -k 5,5 |\
 if [[ "$oval" == "up" ]]; then head -n "$lval"; else tail -n "$lval"; fi
 
